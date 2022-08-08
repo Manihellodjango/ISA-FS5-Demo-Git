@@ -1,2 +1,3 @@
-## I am manikumar 
-## right now i am learning fullstack development course
+## registration-details branch
+## in this one you can add all the user details
+## you can edit also
